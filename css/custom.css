@@ -1,0 +1,62 @@
+h1 {
+
+text-align: center;
+margin: 0;
+padding: 0;
+color: orange;
+text-shadow: 80;
+}
+
+.head{
+    text-align: center;
+    color: blue;
+    padding: 0;
+    margin: 0ch;
+    
+    
+}
+
+h5{color:lightblue;}
+
+body{
+ 
+}
+
+.jumbotron{
+
+    background-color:lightgreen;
+}
+
+body {
+
+    height: 12vh;
+    background-image: url('https://codetheweb.blog/assets/img/posts/style-a-navigation-bar-css/background.jpg');
+    background-size: cover;
+    font-family: sans-serif;
+    margin-top: 30px;
+    padding: 25px;
+    background-color: blueviolet;
+    color: blue;
+}
+
+.final{
+
+    text-align: center;
+    color:blue;
+    font-size: small;
+    font-style: italic;
+    border: 5;
+    margin-top:10px;
+    padding: 5px;
+    font-weight: bolder;
+    
+}
+
+.live {
+
+    color: black;
+}
+
+.tech { color: aquamarine;}
+
+
